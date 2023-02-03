@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/Asad006/MyStory_Project1/blob/main/Project!-Gif.gif' title='Video Walkthrough' width='200px' alt='Video Walkthrough' />
+<img src='https://github.com/Asad006/MyStory_Project1/blob/main/Project!-Gif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with mac os record screen tool.
