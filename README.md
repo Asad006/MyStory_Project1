@@ -32,8 +32,8 @@ Here's a walkthrough of implemented user stories:
 <img src='https://i.imgur.com/ZEXOdyH.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-Mac os record screen tool.
+GIF created with mac os record screen tool.
+
 
 ## Notes
 
