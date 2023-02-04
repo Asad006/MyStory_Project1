@@ -1,8 +1,8 @@
-# Project 1 - *Asad merouani*
+# Project 1 - *MyStory*
 
 Submitted by: **Assaad merouani**
 
-**Mystory app** is an app that introduces the story of ny fictional hero which is batman.
+**Mystory ** is an app that introduces the story of ny fictional hero which is batman.
 
 Time spent: **8** hours spent in total
 
